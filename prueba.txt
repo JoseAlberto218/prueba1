@@ -1,8 +1,8 @@
 Intentad editar esto como veais y subirlo
 Lo edito yo primero a ver si funciona
 Alvaro Moya Pino
-<<<<<<< HEAD
+
 Bebesitaa 
-=======
+Eso no tenia q salir
 Antonio el bueno
->>>>>>> 71577fb65241b7ea1bdfaf0a8402aef879bcba00
+
